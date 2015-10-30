@@ -1,4 +1,4 @@
-# EDCPhotoBrowser
+# EDCPhotoBrowser by Swift 
 
 ***PhotoBrowser like iOS Photos***
 
