@@ -5,15 +5,15 @@
 ![Alt Text](https://github.com/fanyu/EDCPhotoBrowser/blob/master/Browser.gif)
 
 ##Operation
-Show SpringEffect, No SpringEffect.
+* Show SpringEffect, No SpringEffect.
 
-Show ToolBar, No ToolBar.
+* Show ToolBar, No ToolBar. And Counter Label, Back/Forward Arrow Button. 
 
-Double tap to zoomin and zoomout.
+* Double tap to ZoomIn or ZoomOut.
 
-Single tap to dismiss.
+* Single tap to dismiss.
 
-Pan up or down to dismiss. 
+* Pan up or down to dismiss. 
 
 ##How to use 
 ```swift
