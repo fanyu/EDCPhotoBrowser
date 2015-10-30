@@ -35,8 +35,6 @@ func collectionView(collectionView: UICollectionView, didSelectItemAtIndexPath i
         presentViewController(browser, animated: true, completion: nil)
 }
 ```
-##Photos
-All photos are from my Instagram: edceezz, You can follow me. 
 
 ##Licence
 This project uses MIT License.
