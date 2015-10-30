@@ -36,8 +36,6 @@ func collectionView(collectionView: UICollectionView, didSelectItemAtIndexPath i
 }
 ```
 
-##Licence
-This project uses MIT License.
 
 ##Others
 All Photos are from my Instagram : edceezz.
