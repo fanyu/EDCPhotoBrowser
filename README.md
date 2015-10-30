@@ -4,7 +4,7 @@
 
 ![Alt Text](https://github.com/fanyu/EDCPhotoBrowser/blob/master/Browser.gif)
 
-##Operation
+##Features
 * Show SpringEffect, No SpringEffect.
 
 * Show ToolBar, No ToolBar. And Counter Label, Back/Forward Arrow Button. 
@@ -15,7 +15,7 @@
 
 * Pan up or down to dismiss. 
 
-##How to use 
+##Usage 
 ```swift
 func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
 
@@ -35,3 +35,8 @@ func collectionView(collectionView: UICollectionView, didSelectItemAtIndexPath i
         presentViewController(browser, animated: true, completion: nil)
 }
 ```
+##Photos
+All photos are from my Instagram: edceezz, You can follow me. 
+
+##Licence
+This project uses MIT License.
